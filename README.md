@@ -3,7 +3,7 @@
 To make that configuraion avaiable make a file into .config/nvim called for example init.vim,
 in wich specify the location of the directory insert into this repo.
 
-* Example of init.vim *
+*Example of init.vim*
 ``` 
 set runtimepath+=~/.nvim/,~/.nvim/after/
 set packpath+=~/.nvim/
